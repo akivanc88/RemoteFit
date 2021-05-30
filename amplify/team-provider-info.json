@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-remotefit-dev-210139-authRole",
+      "UnauthRoleArn": "arn:aws:iam::111858942970:role/amplify-remotefit-dev-210139-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::111858942970:role/amplify-remotefit-dev-210139-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-remotefit-dev-210139-deployment",
+      "UnauthRoleName": "amplify-remotefit-dev-210139-unauthRole",
+      "StackName": "amplify-remotefit-dev-210139",
+      "StackId": "arn:aws:cloudformation:us-east-1:111858942970:stack/amplify-remotefit-dev-210139/7e112ff0-8b8c-11eb-b238-0a81317f17a3",
+      "AmplifyAppId": "d26czyyj8tsekg"
+    },
+    "categories": {
+      "auth": {
+        "remotefit3b295d42": {}
+      }
+    }
+  }
+}
